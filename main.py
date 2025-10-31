@@ -1,3 +1,5 @@
+import os 
+os.system("pip install bs4")
 import asyncio
 import requests
 from bs4 import BeautifulSoup
